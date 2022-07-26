@@ -20,6 +20,6 @@
 
   <div class="container signin">
     <p>Already have an account? <a href="#">Sign in</a>.</p>
-    <p>Forget Password? </p>
+    <p>Forget Password??? </p>
   </div>
 </form>
